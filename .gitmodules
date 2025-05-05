@@ -1,3 +1,6 @@
 [submodule "submodules/dependency-controller"]
 	path = submodules/dependency-controller
 	url = git@github.com:mNi-Cloud/dependency-controller.git
+[submodule "submodules/anchorage"]
+	path = submodules/anchorage
+	url = git@github.com:mNi-Cloud/anchorage.git
