@@ -1,0 +1,7 @@
+apiVersion: v2
+name: dependency-controller
+description: A Helm chart to distribute the project dependency-controller
+type: application
+version: 0.1.3
+appVersion: "0.1"
+icon: "https://example.com/icon.png"
