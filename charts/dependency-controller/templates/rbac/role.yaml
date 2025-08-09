@@ -12,7 +12,10 @@ rules:
   resources:
   - '*'
   verbs:
+  - delete
   - get
+  - list
+  - watch
 - apiGroups:
   - mnicloud.jp
   resources:

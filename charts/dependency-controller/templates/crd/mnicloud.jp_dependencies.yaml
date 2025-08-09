@@ -20,7 +20,7 @@ spec:
     singular: dependency
   scope: Namespaced
   versions:
-  - name: v1alpha
+  - name: v1alpha1
     schema:
       openAPIV3Schema:
         description: Dependency is the Schema for the dependencies API.
