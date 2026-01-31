@@ -3,6 +3,17 @@ entries:
   dependency-controller:
   - apiVersion: v2
     appVersion: "0.1"
+    created: "2026-01-31T01:18:32.917844204Z"
+    description: A Helm chart to distribute the project dependency-controller
+    digest: ff5033ddeedd83cac1cb5d9bee09e8a6b40fc66c75bbfe79c6a63ddeb49efbdd
+    icon: https://example.com/icon.png
+    name: dependency-controller
+    type: application
+    urls:
+    - https://github.com/mNi-Cloud/charts/releases/download/dependency-controller-0.1.12/dependency-controller-0.1.12.tgz
+    version: 0.1.12
+  - apiVersion: v2
+    appVersion: "0.1"
     created: "2025-04-28T01:19:37.881417002Z"
     description: A Helm chart to distribute the project dependency-controller
     digest: dd4142880667b71920ba2499d23f728f3f7f4e9f4366fae7455498ef5a388937
@@ -23,4 +34,4 @@ entries:
     urls:
     - https://github.com/mNi-Cloud/charts/releases/download/dependency-controller-0.1.1/dependency-controller-0.1.1.tgz
     version: 0.1.1
-generated: "2025-04-28T01:19:37.881428504Z"
+generated: "2026-01-31T01:18:32.917857659Z"
